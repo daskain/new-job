@@ -1,4 +1,4 @@
 .idea
-out
 *.txt
 *.gz
+/out/
